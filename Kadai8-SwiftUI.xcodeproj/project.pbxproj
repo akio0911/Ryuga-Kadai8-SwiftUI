@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D6FA847429B4D69600D584B3 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6FA847329B4D69600D584B3 /* SliderView.swift */; };
 		D6FC1E5029B43DA100BE285A /* Kadai8_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6FC1E4F29B43DA100BE285A /* Kadai8_SwiftUIApp.swift */; };
 		D6FC1E5229B43DA100BE285A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6FC1E5129B43DA100BE285A /* ContentView.swift */; };
 		D6FC1E5429B43DA200BE285A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6FC1E5329B43DA200BE285A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D6FA847329B4D69600D584B3 /* SliderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 		D6FC1E4C29B43DA100BE285A /* Kadai8-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kadai8-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6FC1E4F29B43DA100BE285A /* Kadai8_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kadai8_SwiftUIApp.swift; sourceTree = "<group>"; };
 		D6FC1E5129B43DA100BE285A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				D6FC1E4F29B43DA100BE285A /* Kadai8_SwiftUIApp.swift */,
 				D6FC1E5129B43DA100BE285A /* ContentView.swift */,
+				D6FA847329B4D69600D584B3 /* SliderView.swift */,
 				D6FC1E5329B43DA200BE285A /* Assets.xcassets */,
 				D6FC1E5529B43DA200BE285A /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6FA847429B4D69600D584B3 /* SliderView.swift in Sources */,
 				D6FC1E5229B43DA100BE285A /* ContentView.swift in Sources */,
 				D6FC1E5029B43DA100BE285A /* Kadai8_SwiftUIApp.swift in Sources */,
 			);
